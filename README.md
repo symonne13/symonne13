@@ -23,7 +23,6 @@ My technical interests include Python, Django, JavaScript, HTML, CSS, database m
 | **Databases** | MySQL, SQLite, SQL |
 | **Tools & Technologies** | Git, GitHub, VS Code, DBeaver |
 | **IT Support** | Hardware and Software Troubleshooting, Computer Maintenance |
-| **Networking** | IP Addressing, LAN/WAN, Network Troubleshooting |
 | **Other Skills** | Digital Marketing, Graphic Design, Microsoft Office |
 | **Soft Skills** | Problem-solving, Communication, Teamwork, Adaptability, Continuous Learning |
 
