@@ -1,58 +1,97 @@
-# Hi there! 👋 I'm Onesmus Kimanzi Muimi
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Software Developer**, **DevOps Enthusiast** and **IT Support Specialist** with a passion for building scalable web applications, deploying cloud infrastructure, and solving real-world challenges through technology.
+# Hi there! 👋 I'm Ruth Simon
+
+Welcome to my GitHub profile! I'm a **Computer Science Student**, **Aspiring Software Developer**, and **Web Developer** passionate about building practical digital solutions, developing web applications, and using technology to solve real-world problems.
 
 ---
 
 ## 📜 Personal Statement
 
-I am a Computer Science graduate and software developer specializing in Python, Django, JavaScript, PostgreSQL, and Linux server administration. I enjoy designing, developing, and deploying secure, scalable applications while ensuring reliable system performance. My experience spans full-stack development, GIS dashboards, cloud deployment, ERP systems, payment integrations, and IT support, enabling me to deliver end-to-end digital solutions that create meaningful impact.
+I am a fourth-year Computer Science student at the **University of Kabianga**, with a growing interest in software development, web technologies, and IT infrastructure. I enjoy designing and developing websites and applications while continuously improving my programming and problem-solving skills.
+
+My technical interests include Python, Django, JavaScript, HTML, CSS, database management, networking, and IT support. I am passionate about learning new technologies, working on practical projects, and growing into a professional software developer.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 | **Category** | **Skills** |
 |--------------|------------|
-| **Programming** | Python, JavaScript, HTML5, CSS3, C, C++, SQL |
-| **Backend** | Django, Django REST Framework, REST APIs |
-| **Frontend** | HTML, CSS, Bootstrap, Tailwind CSS, JavaScript |
-| **Database** | PostgreSQL, MariaDB, SQLite |
-| **DevOps & Cloud** | Docker, Nginx, Gunicorn, Linux, Systemd, SSL (Certbot), VPS Management |
-| **Hosting Platforms** | Hostinger VPS, Render, Vercel, Google Cloud |
-| **GIS & Visualization** | Leaflet, OpenStreetMap, Chart.js |
-| **Tools** | Git, GitHub, Postman, Microsoft Office (Word, Excel, PowerPoint) |
-| **Design** | Figma, Adobe Illustrator |
-| **Technical Support** | Hardware & Software Troubleshooting, Network Administration, System Maintenance |
-| **Soft Skills** | Problem-solving, Collaboration, Communication, Leadership, Organizational Skills |
+| **Programming** | Python, JavaScript, C, C++ |
+| **Frontend Development** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Backend Development** | Python, Django, REST APIs |
+| **Databases** | MySQL, SQLite, SQL |
+| **Tools & Technologies** | Git, GitHub, VS Code, DBeaver |
+| **IT Support** | Hardware and Software Troubleshooting, Computer Maintenance |
+| **Networking** | IP Addressing, LAN/WAN, Network Troubleshooting |
+| **Other Skills** | Digital Marketing, Graphic Design, Microsoft Office |
+| **Soft Skills** | Problem-solving, Communication, Teamwork, Adaptability, Continuous Learning |
 
 ---
 
-## 🌟 Highlights
+## 🌟 Featured Projects
 
-- 🌐 **Portfolio**: [View my work](https://onesmus-kimanzi.vercel.app/)
-- 🐍 **Certification**: [Scientific Computing with Python - freeCodeCamp](https://www.freecodecamp.org/certification/Kimanzi/scientific-computing-with-python-v7)
-- 💻 **Interests**: Full Stack Development, DevOps, Cloud Computing, GIS Solutions, ERP Systems, Open Source
+### 🌍 Raw Unwind Safaris
+
+A website for a Kenyan safari and conservation-focused tourism company, showcasing travel experiences and sustainable tourism initiatives.
+
+- **Live Website:** [rawunwindsafaris.com](https://rawunwindsafaris.com/)
+
+### 💎 M's Jewellery Store
+
+A jewellery website showcasing collections, product categories, and custom order options, with a focus on elegant design and user experience.
+
+- **Live Demo:** [M's Jewellery Store](https://symonne13.github.io/Ms-Jewellery-Store/)
+
+### 👩‍💻 Personal Portfolio
+
+A personal portfolio website highlighting my technical skills, projects, and journey in technology.
+
+- **GitHub Repository:** [Personal Portfolio](https://github.com/symonne13/portfolio)
 
 ---
 
-## 💻 Notable Projects
+## 🎯 Areas of Interest
 
-- **Digniflow** – Co-founder and lead developer of a centralized platform for menstrual product distribution and impact tracking.
-- **ICON Data & Learning** – Developed and deployed web platforms supporting data-driven community transformation initiatives.
-- **Mental Health & Rehabilitation Dashboard** – Built an interactive GIS platform for visualizing healthcare facilities using Leaflet and OpenStreetMap.
-- **Lake Region OPD System** – Developed and deployed a healthcare information management system.
-- **ERPNext Deployment** – Configured and deployed ERPNext using Docker, Linux, Nginx, and MariaDB.
+- Full Stack Web Development
+- Python and Django Development
+- Software Engineering
+- Database Management
+- Networking and Cybersecurity
+- Cloud Computing and Deployment
+- IT Support and System Administration
+- Digital Innovation
+
+---
+
+## 📚 Education
+
+**Bachelor of Science in Computer Science**  
+University of Kabianga  
+Year 4 | Academic Year 2026/2027
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=symonne13&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=symonne13&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔗 Let's Connect!
 
-- 📧 **Email**: [kimonesmuske@gmail.com](mailto:kimonesmuske@gmail.com)
-- 💼 **LinkedIn**: [Onesmus Muimi](https://www.linkedin.com/in/onesmus-muimi-67192026b/)
-- 🐦 **X (Twitter)**: [@Kiim844](https://x.com/Kiim844)
-- 🌐 **Portfolio**: https://onesmus-kimanzi.vercel.app
+- 📍 **Location:** Kericho, Kenya
+- 📞 **Phone:** [+254 725 560 621](tel:+254725560621)
+- 📧 **Email:** [simonruth749@gmail.com](mailto:simonruth749@gmail.com)
+- 💻 **GitHub:** [symonne13](https://github.com/symonne13)
+- 💼 **LinkedIn:** [Ruth Simon](https://www.linkedin.com/in/ruth-simon-/)
 
 ---
 
-⭐ Thank you for visiting my GitHub profile! I'm always open to collaborating on exciting projects, contributing to open source, and building technology that makes a difference.
+⭐ **Thanks for visiting my GitHub profile!**
+
+I'm always excited to learn, collaborate, explore new technologies, and build meaningful projects. I'm committed to growing my skills, gaining practical experience, and contributing to innovative technology solutions.
+
+**Let's connect and build something impactful!** 🚀
