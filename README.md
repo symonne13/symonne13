@@ -70,14 +70,6 @@ Year 4 | Academic Year 2026/2027
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=symonne13&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=symonne13&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Let's Connect!
 
 - 📍 **Location:** Kericho, Kenya
