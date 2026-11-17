@@ -20,7 +20,7 @@ My technical interests include Python, Django, JavaScript, HTML, CSS, database m
 | **Programming** | Python, JavaScript, C, C++ |
 | **Frontend Development** | HTML5, CSS3, JavaScript, Bootstrap |
 | **Backend Development** | Python, Django, REST APIs |
-| **Databases** | MySQL, SQLite, SQL |
+| **Databases** | MySQL, SQLite, SQL, PostgreSQL |
 | **Tools & Technologies** | Git, GitHub, VS Code, DBeaver |
 | **IT Support** | Hardware and Software Troubleshooting, Computer Maintenance |
 | **Other Skills** | Digital Marketing, Graphic Design, Microsoft Office |
