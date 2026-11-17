@@ -56,7 +56,6 @@ A personal portfolio website highlighting my technical skills, projects, and jou
 - Python and Django Development
 - Software Engineering
 - Database Management
-- Networking and Cybersecurity
 - Cloud Computing and Deployment
 - IT Support and System Administration
 - Digital Innovation
