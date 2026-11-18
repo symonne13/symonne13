@@ -66,7 +66,7 @@ A personal portfolio website highlighting my technical skills, projects, and jou
 
 **Bachelor of Science in Computer Science**  
 University of Kabianga  
-Year 4 | Academic Year 2026/2027
+Year 4
 
 ---
 
