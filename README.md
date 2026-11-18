@@ -59,6 +59,7 @@ A personal portfolio website highlighting my technical skills, projects, and jou
 - Cloud Computing and Deployment
 - IT Support and System Administration
 - Digital Innovation
+- Digital Innovation
 
 ---
 
