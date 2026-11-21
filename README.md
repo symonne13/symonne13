@@ -40,7 +40,7 @@ A website for a Kenyan safari and conservation-focused tourism company, showcasi
 
 A jewellery website showcasing collections, product categories, and custom order options, with a focus on elegant design and user experience.
 
-- **Live Demo:** [M's Jewellery Store](https://symonne13.github.io/Ms-Jewellery-Store/)
+- **Live Demo:** [M's Jewellery Store](https://msjewellerystore.vercel.app/)
 
 ### 👩‍💻 Personal Portfolio
 
