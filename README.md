@@ -78,12 +78,12 @@ Year 4
 - 📧 **Email:** [simonruth749@gmail.com](mailto:simonruth749@gmail.com)
 - 💻 **GitHub:** [symonne13](https://github.com/symonne13)
 - 💼 **LinkedIn:** [Ruth Simon](https://www.linkedin.com/in/ruth-simon-/)
-- 🌐 Portfolio: https://my-portfolio-symonne.vercel.app/
-
+- 🌐 Portfolio:** [Ruth Simon-Portfolio](https://my-portfolio-symonne.vercel.app/)
+ 
 ---
 
 ⭐ **Thanks for visiting my GitHub profile!**
 
 I'm always excited to learn, collaborate, explore new technologies, and build meaningful projects. I'm committed to growing my skills, gaining practical experience, and contributing to innovative technology solutions.
 
-**Let's connect and build something impactful!** 🚀
+**Let's connect and build something impactful!** 
