@@ -46,7 +46,7 @@ A jewellery website showcasing collections, product categories, and custom order
 
 A personal portfolio website highlighting my technical skills, projects, and journey in technology.
 
-- **GitHub Repository:** [Personal Portfolio](https://github.com/symonne13/portfolio)
+- **GitHub Repository:** [Personal Portfolio](https://my-portfolio-symonne.vercel.app/)
 
 ---
 
