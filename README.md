@@ -78,7 +78,7 @@ Year 4
 - 📧 **Email:** [simonruth749@gmail.com](mailto:simonruth749@gmail.com)
 - 💻 **GitHub:** [symonne13](https://github.com/symonne13)
 - 💼 **LinkedIn:** [Ruth Simon](https://www.linkedin.com/in/ruth-simon-/)
-- 🌐 Portfolio:** [Ruth Simon-Portfolio](https://my-portfolio-symonne.vercel.app/)
+- 🌐 Portfolio:[Ruth Simon-Portfolio](https://my-portfolio-symonne.vercel.app/)
  
 ---
 
