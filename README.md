@@ -1,5 +1,5 @@
 
-# Hey there! 👋 I'm Ruth Simon
+# Hi there! 👋 I'm Ruth Simon
 
 Welcome to my GitHub profile! I'm a **Computer Science Student**, **Aspiring Software Developer**, and **Web Developer** passionate about building practical digital solutions, developing web applications, and using technology to solve real-world problems.
 
